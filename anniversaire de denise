@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<link rel="stylesheet" href="styles.css">
+
+</head>
+<body>
+	<div id="di"><h1><u>Ma carte de voeux pour toi</u>
+	  	<br><br>
+
+		<div id="c" ><p>En ce jour du <b><i>15 Mai 2021</i></b>, j'ai l'imense joie 
+			de te dire que depuis hier <b><i>14 Mai 2021</i></b> à <b><i>"23H59min59"</i></b>
+			tu n'est plus la jeune fille que tu as toujours été, tu a encore grandi  
+			un an de plus donc tu es une grande fille déjà............ 	</p>
+			</div>
+		
+			<a href="anni2.html">DJAGLI Brada Denise</a>
+
+
+	</div>
+<br>
+<div id="den"><img src="image/denise.png" alt="" width="700" height="300" align="center"></div>	
+		</div>
+		<br>
+
+</body>
+</html>
